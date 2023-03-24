@@ -1,7 +1,7 @@
 <div align="center">
     <p>
-        <a href="https://github.com/thiiagoms/quest-produtos">
-          <img src="assets/img/quest.png" alt="Logo" width="80" height="80">
+        <a href="https://github.com/thiiagoms/drum">
+          <img src="assets/images/bateria.png" alt="Logo" width="80" height="80">
         </a>
         <h3 align="center">Minimalist Drum application :drum:</h3>
     </p>
