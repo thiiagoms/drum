@@ -24,7 +24,7 @@
 
 ### Setup:
 
-- [Dependências](#Dependencies)
+- [Dependencies](#Dependencies)
 - [Run](#Run)
 
 
@@ -39,13 +39,13 @@
 $ git clone https://github.com/thiiagoms/drum
 ```
 
-02 - Vá para o diretório do projeto
+02 - Change directory:
 ```bash
 $ cd drum
 drum $
 ```
 
-03 - Open  `index.html` file with your favorite browser:
+03 - Open `index.html` file with your favorite browser:
 ```bash
 drum $ firefox index.html
 ```
